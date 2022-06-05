@@ -15,12 +15,12 @@
 ```
  ~https://benjaminkondraki.github.io/benjamin-kondraki/
 
-—这是个普通的点击游戏，类似音游，是我独立开发的第一款小游戏
+— 这是个普通的点击游戏，类似音游，是我独立开发的第一款小游戏
 
 
 ~https://github.com/benjaminkondraki/benjamin-kondraki
 
-—库页面也在这里
+— 库页面也在这里
 ```
 
 
@@ -33,7 +33,7 @@
 ##  帮助者——金聪（这家伙道行比我高）
 
 ```
-下附金聪制作的小玩意----
+- 下附金聪制作的小玩意----
 
 -
 -
