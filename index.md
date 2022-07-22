@@ -65,3 +65,5 @@ https://ljc2966.github.io/zhengsheng/<a href="https://ljc2966.github.io/zhengshe
 
 ###  明君的QQ
 2160282909
+###  金聪的QQ
+2904958418
